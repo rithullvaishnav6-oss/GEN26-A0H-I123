@@ -6,8 +6,8 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |          D Rithull Vaishnav               |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   | D Rithull Vaishnav      | CB.EN.U4ELC26109       |   Male          | B.Tech ELC                      |  
+|    Member 2     | Chundi Karthik          | CB.EN.U4ELC26108       |   Male          | B.Tech ELC                      |  
+|    Member 3     | Aditya Ajit Dubal       | CB.EN.U4ELC26108       |   Male          | B.Tech ELC                      |  
+|    Member 4     | Pratik Sundar Barik     | CB.EN.U4ELC26108       |   Male          | B.Tech ELC                      |   
 
